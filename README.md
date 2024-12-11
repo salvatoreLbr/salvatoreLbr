@@ -5,7 +5,6 @@ I work as Credit & Operational Risk Expert @ [illimity Bank S.p.A.](https://www.
   - Finance (financial market investments and wealth management)
   - Betting (fantasy football)
   - Enterpreneur activities
-- 🌱 I’m currently learning Flutter because I would like to deploy my web apps on Google Play and Apple Store
 - 💻 My Tech Stack:
   - Languages <br>
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
